@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <div>
       <Contact2 />
+      <a>eiei</a>
     </div>
   );
 }
