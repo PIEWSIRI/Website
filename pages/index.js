@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
       <Contact2 />
-      <a>eiei</a>
+      <a>eiei1</a>
     </div>
   );
 }
